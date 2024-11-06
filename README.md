@@ -8,6 +8,7 @@ This repository contains following branches:
 - `ugly-conflict`
 - `feature-script`
 
+
 ## How to use this repository
 1. Clone this repository to your local machine.
 2. Checkout to the branch you want to work on. (e.g. `git checkout ugly-conflict`)
@@ -15,6 +16,9 @@ This repository contains following branches:
 4. Merge the branch to `main` branch.
 
 For the `feature-script` branch, try to create a pull request to merge the branch to `main` branch in GitHub.
+
+## created a new script
+It showcases how python is awesome object oriented programming language.
 
 ## Branch changes
 This branch is to reherse how conflicts can be resolved in git.
